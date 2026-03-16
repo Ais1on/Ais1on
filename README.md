@@ -22,6 +22,7 @@ I hope to grow into a solid **backend / AI backend engineer**, building thoughtf
 
 Follow me on：  
 <a href="https://xhslink.com/m/8zfLJEV5ElJ" target="_blank"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" /></a>
-<!-- <a href="./WeChat QR Code.png" target="_blank"><img src="https://img.shields.io/badge/公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a> -->
 <a href="https://v.douyin.com/HVEOLHVHAbU/ 5@0.com" target="_blank"><img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://b23.tv/CgaNJPY" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+<!-- <a href="./WeChat QR Code.png" target="_blank"><img src="https://img.shields.io/badge/公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a> -->
+
