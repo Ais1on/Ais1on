@@ -1,26 +1,27 @@
 # 👋 Hi! I'm Aision
 
-![JAVA](https://img.shields.io/badge/JAVA-BACKEND-2F80ED?style=for-the-badge)
-![SPRING BOOT](https://img.shields.io/badge/SPRING%20BOOT-SERVICE-27AE60?style=for-the-badge)
-![REDIS](https://img.shields.io/badge/REDIS-CACHE-EB5757?style=for-the-badge)
-![RABBITMQ](https://img.shields.io/badge/RABBITMQ-MQ-F2994A?style=for-the-badge)
-![MYSQL](https://img.shields.io/badge/MYSQL-DATABASE-2D9CDB?style=for-the-badge)
-![FABRIC](https://img.shields.io/badge/FABRIC-BLOCKCHAIN-5B8FF9?style=for-the-badge)
-![GRAPHRAG](https://img.shields.io/badge/GRAPH-RAG-9B51E0?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-AI%20SYSTEMS-BF5AF2?style=for-the-badge)
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Java-2F74C0?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-2FA36B?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-2D9CDB?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-C2462B?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-D96500?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fabric-3A77D4?style=for-the-badge&logo=hyperledger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphRAG-5A2B93?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
-I’m a developer focused on **backend engineering and intelligent systems**.
+I’m Aision, a second-year master’s student from the **Fang Class at Guangzhou University**.
 
-My primary technical stack centers on **Java backend development**, and my recent work has focused on **Spring Boot, MySQL, Redis, RabbitMQ, and distributed backend design**. I’m also deeply interested in combining backend engineering with **blockchain systems, graph retrieval, and LLM applications**.
+My primary technical stack centers on **Java backend development**, and my long-term interests focus on **backend engineering, distributed systems, graph retrieval, and LLM applications**.
 
-In recent projects, I have worked on:
+In recent years, I’ve been exploring how to combine **software engineering** with **AI-driven systems** and **security-related research**, while continuously improving my skills in system design and practical development.
 
-- building blockchain-based backend services for cyber threat intelligence trading scenarios
-- designing asynchronous processing pipelines with **Redis + RabbitMQ**
-- improving service reliability through **idempotency, retry, compensation, and cache strategies**
-- developing **GraphRAG** systems with **Neo4j, Milvus, and LLM Gateway**
-- exploring practical AI backend patterns for retrieval, orchestration, and fault tolerance
+I hope to grow into a solid **backend / AI backend engineer**, building thoughtful, reliable, and scalable systems.
 
-I hope to keep growing into a stronger **backend / platform / AI infrastructure engineer**, building systems that are practical, scalable, and reliable.
-
----
+Follow me on：  
+<a href="https://xhslink.com/m/8zfLJEV5ElJ" target="_blank"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" /></a>
+<!-- <a href="./WeChat QR Code.png" target="_blank"><img src="https://img.shields.io/badge/公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a> -->
+<a href="https://v.douyin.com/HVEOLHVHAbU/ 5@0.com" target="_blank"><img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://b23.tv/CgaNJPY" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
